@@ -14,7 +14,7 @@ For manual installation, download **LingoCraft-Japanese-0.23.0.zip** and **japan
 
 Use `/languagecamera phone` to obtain the phone. Hold it and right-click, or press **V**, to aim. Left-click photographs; **R** plays pronunciation; **G** opens the album. Aim upward for automatic sky/weather detection. Zoom with the scroll wheel or **= / -**.
 
-Right-click a physical **Field Journal** (obtain one with `/languagecamera journal`) or choose **G → Field Journal** to study. Both share the same saved learning progress. The album’s Settings control tooltips, photo size, audio volume and Japanese setup.
+Right-click a physical **Field Journal** (obtain one with `/languagecamera journal`) or choose **G → Field Journal** to study. Both share the same saved learning progress. The album’s Settings control tooltips, photo size, and Japanese setup.
 
 Supported multiplayer servers need the core mod and its normal dependencies. Each client installs Japanese locally; the server needs no Japanese audio.
 
