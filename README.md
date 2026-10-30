@@ -4,7 +4,7 @@ Learn Japanese through Minecraft photography, offline pronunciation, and a share
 
 ## Install
 
-Download **lingocraft-0.30.0.jar** from the [v0.30.0 release](https://github.com/thepoppfish/LingoCraft/releases/tag/v0.30.0) and place it beside Fabric API in your Minecraft instance’s `mods` folder. Replace any older LingoCraft JAR; keep your existing `language-camera` folder, photos, Study files, and settings.
+Download **lingocraft-0.30.1.jar** from the [v0.30.1 release](https://github.com/thepoppfish/LingoCraft/releases/tag/v0.30.1) and place it beside Fabric API in your Minecraft instance’s `mods` folder. Replace any older LingoCraft JAR; keep your existing `language-camera` folder, photos, Study files, and settings.
 
 At the main menu, choose **Download Japanese**. The one-time **50.3 MiB** pack contains **2,989 lessons and recordings**. After installation, vocabulary, pronunciation, and credits work offline. Updates are optional and explicitly requested.
 
@@ -14,7 +14,7 @@ For manual installation, download **LingoCraft-Japanese-0.23.0.zip** and **japan
 
 Use `/languagecamera phone` to obtain the phone. Hold it and right-click, or press **V**, to aim. Left-click photographs; **R** plays pronunciation; **G** opens the album. Aim upward for automatic sky/weather detection. Zoom with the scroll wheel or **= / -**.
 
-Right-click a physical **Field Journal** (obtain one with `/languagecamera journal`) or choose **G → Field Journal** to study. Both share the same saved learning progress. The album’s Settings control tooltips, photo size, and Japanese setup.
+Right-click a physical **Field Journal** (obtain one with `/languagecamera journal`) or choose **G → Field Journal** to study. Both share the same saved learning progress. The album’s Settings control tooltips, photo size, and Japanese setup. Choose **Check for language updates** there to check Japanese explicitly. Setup shows download progress and **Japanese installed ✓** when ready, and blocks repeat downloads. Existing Japanese installations do not need to download the pack again for this core update.
 
 Supported multiplayer servers need the core mod and its normal dependencies. Each client installs Japanese locally; the server needs no Japanese audio.
 
